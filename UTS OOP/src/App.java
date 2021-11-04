@@ -11,7 +11,7 @@ public class App {
         
         System.out.println("#################################");
         // c. 1 instance ketua panitia (isikan nama, noAnggota dan periode kepengurusan)
-        KetuaPanitia Yudiantara = new KetuaPanitia("Yudiantara", "02", "2020/2021");
+        KetuaPanitia Yudiantara = new KetuaPanitia("taracn", "02", "2020/2021");
         Yudiantara.display();
     }
 }

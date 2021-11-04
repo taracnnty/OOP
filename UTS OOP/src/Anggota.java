@@ -41,6 +41,6 @@ public class Anggota {
     }
 
     void melihatKegiatan(){
-        System.out.println(" Melihat kegiatan ");
+        System.out.println(" halo kawan ");
     }
 }
